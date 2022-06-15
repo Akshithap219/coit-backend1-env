@@ -19,7 +19,7 @@ spec:
     metadata:
       labels:
         app: coit-backend1
-    spec:
+  spec:
       containers:
       - image: coitlearning/coit-backend1:latest
         imagePullPolicy: IfNotPresent
