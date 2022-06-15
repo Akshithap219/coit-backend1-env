@@ -18,4 +18,4 @@ commonLabels:
 nameSuffix: -development
 replicas:
   - name: coit-backend1
-    count: 2
+    count: 1
