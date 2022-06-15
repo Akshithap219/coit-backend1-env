@@ -16,3 +16,6 @@ commonLabels:
   environment: development 
 
 nameSuffix: -development
+replicas:
+  - name: coit-backend1
+    count: 2
